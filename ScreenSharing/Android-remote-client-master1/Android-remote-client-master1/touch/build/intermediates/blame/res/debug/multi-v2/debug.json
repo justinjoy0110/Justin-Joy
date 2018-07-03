@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\VirGo Innovation\\Downloads\\mobilemouse-master\\mobilemouse-master\\client\\Android-remote-client-master1\\touch\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\VirGo Innovation\\Downloads\\mobilemouse-master\\mobilemouse-master\\client\\Android-remote-client-master1\\touch\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,2",
+                        "startColumns": "4,0,4",
+                        "startOffsets": "109,157,55",
+                        "endColumns": "51,50,53",
+                        "endOffsets": "156,207,104"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,107,162",
+                        "endColumns": "51,54,53",
+                        "endOffsets": "102,157,211"
+                    }
+                }
+            ]
+        }
+    ]
+}

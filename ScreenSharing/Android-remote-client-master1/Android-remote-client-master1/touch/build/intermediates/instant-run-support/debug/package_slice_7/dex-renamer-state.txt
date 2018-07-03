@@ -1,0 +1,4 @@
+#Wed May 30 18:35:36 IST 2018
+base.0=C\:\\Users\\VirGo Innovation\\Downloads\\mobilemouse-master\\mobilemouse-master\\client\\Android-remote-client-master1\\touch\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+path.0=classes.dex
+renamed.0=classes.dex
